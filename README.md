@@ -21,7 +21,7 @@
 <h4>Mas todo dia aprendendo uma coisa nova...</h4>
 
 ## Um Pouco Sobre Mim
-<p>Nascido no Rio de Janeiro, um loucamente apaixonado por programação desde 2020. O amor foi tanto que me fez largar um curso de engenharia e trocar para um de Ciências da Computação, e eu não poderia estar mais certo dessa escolha!</p>
+<p>Nascido no Rio de Janeiro, um apaixonado por programação desde 2020. O amor foi tanto que me fez largar um curso de engenharia e trocar para um de Ciências da Computação, e eu não poderia estar mais certo dessa escolha!</p>
 
 ## Atualmente...
 <p>Atualmente eu estou focado em aprender cada vez mais e crescer profissionalmente, tanto que criei esse github novo (sim, abandonei o meu antigo com mais de 4 anos) para fazer um novo de forma mais organizada e estruturada.</p>
