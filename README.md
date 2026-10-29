@@ -1,7 +1,7 @@
 # Olá, Me Chamo Rodrigo Nogueira ✌️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/rodrigo-nogueira-574662347/)
+)](https://www.linkedin.com/in/rodrigo-placido-574662347)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](https://mail.google.com/mail/?view=cm&fs=1&to=rodrigonplacido.contato@gmail.com)
 
@@ -30,6 +30,6 @@
 <p>E muito obrigado se você leu isso tudo (mesmo não sendo muita coisa), se você for um Tech Recruiter e estiver interessado, estou #OpenToWork para trabalhos remotos ou presenciais na cidade do Rio de Janeiro, me chame pelo LinkedIn ou pelo Gmail abaixo:</p>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/rodrigo-nogueira-574662347/)
+)](https://www.linkedin.com/in/rodrigo-placido-574662347)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](https://mail.google.com/mail/?view=cm&fs=1&to=rodrigonplacido.contato@gmail.com)
